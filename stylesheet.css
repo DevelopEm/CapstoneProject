@@ -8,6 +8,11 @@ text-align: center;
 position: relative;
 }
 
+@media (min-width: 600px) {
+    main {
+      flex-wrap: nowrap;
+    }
+
 .topcontainer {
 text-align: center;
 font-family: "Odibee Sans", sans-serif;
