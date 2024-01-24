@@ -2,22 +2,14 @@ body {
 background-color: rgb(151, 193, 230);
 display: flex;
 flex-wrap: wrap;
-justify-content: space-between;
 font-family: "Odibee Sans", sans-serif;
 text-align: center;
 position: relative;
 }
 
-@media (min-width: 600px) {
-    main {
-      flex-wrap: nowrap;
-    }
-
 .topcontainer {
 text-align: center;
 font-family: "Odibee Sans", sans-serif;
-display: flex;
-flex-wrap: wrap;
 }
 
 .fw-dark {
@@ -43,8 +35,6 @@ opacity: 85%;
 font-family: 'Times New Roman', Times, serif;
 background-color: antiquewhite;
 padding: 10px;
-display: flex;
-flex-wrap: wrap;
 } 
 
 #bottom {
