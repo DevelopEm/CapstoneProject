@@ -1,6 +1,8 @@
 body {
 background-color: rgb(151, 193, 230);
-Display: Flexbox; 
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
 font-family: "Odibee Sans", sans-serif;
 text-align: center;
 position: relative;
@@ -9,6 +11,8 @@ position: relative;
 .topcontainer {
 text-align: center;
 font-family: "Odibee Sans", sans-serif;
+display: flex;
+flex-wrap: wrap;
 }
 
 .fw-dark {
@@ -34,6 +38,8 @@ opacity: 85%;
 font-family: 'Times New Roman', Times, serif;
 background-color: antiquewhite;
 padding: 10px;
+display: flex;
+flex-wrap: wrap;
 } 
 
 #bottom {
