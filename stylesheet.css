@@ -1,6 +1,6 @@
 body {
 background-color: rgb(151, 193, 230);
-display: inline-flexbox;
+display: flexbox; 
 font-family: "Odibee Sans", sans-serif;
 text-align: center;
 }
