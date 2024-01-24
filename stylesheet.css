@@ -1,8 +1,6 @@
 body {
 background-color: rgb(151, 193, 230);
-display: flex;
-flexdirection: column; 
-flexwrap: nowrap; 
+display: inline-flexbox;
 font-family: "Odibee Sans", sans-serif;
 text-align: center;
 }
@@ -10,8 +8,6 @@ text-align: center;
 .topcontainer {
 text-align: center;
 font-family: "Odibee Sans", sans-serif;
-flexdirection: column; 
-flexwrap: nowrap; 
 }
 
 .fw-dark {
@@ -37,15 +33,11 @@ opacity: 85%;
 font-family: 'Times New Roman', Times, serif;
 background-color: antiquewhite;
 padding: 10px;
-flexdirection: column; 
-flexwrap: nowrap; 
 } 
 
 #bottom {
 padding: 1px;
 align-items: center;
-flexdirection: column; 
-flexwrap: nowrap; 
 }
 
 .profile {
