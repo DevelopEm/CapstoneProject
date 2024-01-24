@@ -1,7 +1,6 @@
 body {
 background-color: rgb(151, 193, 230);
 display: flex;
-flex-direction: row;
 flex-wrap: nowrap;
 font-family: "Odibee Sans", sans-serif;
 text-align: center;
