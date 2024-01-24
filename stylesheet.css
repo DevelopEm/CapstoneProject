@@ -3,9 +3,8 @@ background-color: rgb(151, 193, 230);
 font-family: "Odibee Sans", sans-serif;
 display: flex;
 justify-content: flex-start;
-flex-wrap: wrap;
+flex-wrap: nowrap;
 text-align: center;
-position: relative;
 }
 
 .topcontainer {
